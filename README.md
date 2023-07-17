@@ -1,8 +1,6 @@
 ![image](https://github.com/Namanj1298/Lane-Detection/assets/70903104/3d227561-8717-4552-835e-41bd4fc45b72)# Lane-Detection
 Detection of Lane Lines using Houghs Transform and Deep Learning (U-Net)
 
-![image](https://github.com/Namanj1298/Lane-Detection/assets/70903104/8fbb0e9c-f4ec-4cc8-8652-bfcc737aafbd)
-
  ![image](https://github.com/Namanj1298/Lane-Detection/assets/70903104/59f5730e-2cd3-4649-96ee-c28026b4a96b)
 
 ![image](https://github.com/Namanj1298/Lane-Detection/assets/70903104/bbe0c677-73c5-4760-9810-5d01b9a05cdd)
@@ -14,6 +12,8 @@ Detection of Lane Lines using Houghs Transform and Deep Learning (U-Net)
 ![image](https://github.com/Namanj1298/Lane-Detection/assets/70903104/de124a2f-b06c-431b-89af-57b77ac3c01c)
 
 ![image](https://github.com/Namanj1298/Lane-Detection/assets/70903104/f924b262-aff8-4539-8b49-a6e67d00295b)
+
+![image](https://github.com/Namanj1298/Lane-Detection/assets/70903104/8fbb0e9c-f4ec-4cc8-8652-bfcc737aafbd)
 
 ![image](https://github.com/Namanj1298/Lane-Detection/assets/70903104/07f4bf6c-5318-466e-a3d6-02284616227d)
 
